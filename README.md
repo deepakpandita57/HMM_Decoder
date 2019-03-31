@@ -9,7 +9,7 @@ Description
 =============================================================================================================
 I have calculated the transition and emission probabilities (log probability) from the train file.
 Then, I have used these probabilities to find the best tag sequence for a given sentence in the test file.
-Viterbi algorithm is implemented in the function "viterbi"
+Viterbi algorithm is implemented in the function "viterbi".
 
 
 Accuracy
