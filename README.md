@@ -21,4 +21,5 @@ Accuracy: 91.75%
 
 References
 =============================================================================================================
-This was done as a homework problem in the Statistical Speech and Language Processing class (CSC 448, Fall 2017) by Prof. Daniel Gildea (https://www.cs.rochester.edu/~gildea/) at the University of Rochester, New York.
+This was done as a homework problem in the Statistical Speech and Language Processing class (CSC 448, Fall 2017) by [Prof. Daniel Gildea](https://www.cs.rochester.edu/~gildea/) at the University of Rochester, New York. <br />
+Have questions? Shoot me an [email](https://sites.google.com/view/deepakpandita/contact).
